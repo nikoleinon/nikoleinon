@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Niko</h1>
 <h3 align="center">A passionate full-stack developer from Finland.</h3>
 
-- 👨‍💻 While I have you here check out this cool website!
+<p align="center"><a href="https://nikoleinon.github.io/Portfolio/">- 👨‍💻 While I have you here check out this cool website!</a></p>
 
 
 <h3 align="left">⚙️ My skills:</h3>
